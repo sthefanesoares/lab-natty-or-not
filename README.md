@@ -1,21 +1,5 @@
 # Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
 
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
 
 ### Template
 
@@ -23,29 +7,31 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 # Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Mergulhe em uma história mágica de amor entre Yakan, um jovem indígena das margens do Rio Amazonas, e Yara, a encantadora sereia das águas doces. Esta emocionante obra de ficção, gerada por inteligência artificial, leva você a uma jornada pelas profundezas da floresta amazônica, onde o destino une dois corações de mundos diferentes.
+
+Nas cinco páginas deste eBook, você será transportado para um cenário exuberante, onde o encontro improvável entre Yakan e Yara desafia as convenções e transcende os limites da realidade. A narrativa habilmente construída pela IA mergulha nas emoções, nos desafios e nas aventuras desses amantes improváveis, oferecendo uma leitura envolvente e cativante.
+
+Prepare-se para se encantar com os encontros secretos nas margens do rio, os juramentos de amor eterno sob a luz da lua e os desafios enfrentados por Yakan e Yara em sua busca pelo amor verdadeiro. Esta história única e comovente certamente deixará uma marca duradoura em seu coração, lembrando-o de que o amor não conhece fronteiras, nem mesmo entre um indígena humano e uma sereia das águas doces.
+
+"Amor sem Barreiras" é mais do que apenas uma história de amor; é uma ode à magia do destino e à força do amor verdadeiro, uma viagem inesquecível através dos reinos da fantasia e da realidade. Não perca a chance de se perder neste romance fascinante, criado pela mente criativa da inteligência artificial. Baixe agora e deixe-se levar pela magia do amor entre Yakan e Yara.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- IA Generativa **[ChatGPT](https://chat.openai.com)** para roteirização;
+- IA Generativa **[Leonardo AI](https://leonardo.ai)** para criar a arte visual do e-book;
+- Ferramenta **Libre Office** para edição.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Utilizei o "ChatGPT" para criar o romance, estruturar o conteúdo e refinar minhas ideias. Por outro lado, o "Leonardo AI" foi usado para gerar imagens exclusivas para o meu e-book. Para concluir, a montagem final foi feita no Word pois tenho licença.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+E-book apresenta um conteúdo envolvente e visualmente rico em detalhes.
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
 ```
 
-### Exemplos e Insigths
+### E-BOOK
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
+- [E-BOOK](Ebook-Amor-Sem-Barreiras_Lab.pdf)
 
-## Links Interessantes
 
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
