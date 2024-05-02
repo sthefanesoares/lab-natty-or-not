@@ -26,8 +26,6 @@ Utilizei o "ChatGPT" para criar o romance, estruturar o conteúdo e refinar minh
 ## 🚀 Resultados
 E-book apresenta um conteúdo envolvente e visualmente rico em detalhes.
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
 ```
 
 ### E-BOOK
